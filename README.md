@@ -1,15 +1,13 @@
-# Quantum Computing Algorithms (LV)
+# Quantum Computing Algorithms
 
-A collection of Jupyter Notebooks explaining and implementing core quantum computing algorithms using **Qiskit**.
+A collection of Jupyter Notebooks explaining and implementing core quantum computing algorithms using **Qiskit** both in Latvian and English.
 
 ---
 
 ## ⚙️ Requirements
-
 - Python 3.9+
 - Jupyter Notebook or Jupyter Lab
 - Qiskit
-
 ---
 
 ## 🛠 Installation
@@ -40,7 +38,7 @@ pip install jupyter
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Start Jupyter:
 
@@ -54,7 +52,7 @@ From there, navigate to any algorithm notebook and run cells from top to bottom.
 
 ---
 
-## 🎓 Purpose
+## Purpose
 
 This repository is intended for:
 
